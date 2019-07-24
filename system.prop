@@ -1,0 +1,17 @@
+persist.sys.usb.config=mtp
+ro.sys.usb.storage.type=mtp
+persist.sys.timezone=Europe/Istanbul
+persist.sys.language=tr
+persist.sys.country=TR
+persist.service.acm.enable=0
+ro.sys.usb.mtp.whql.enable=0
+ro.kernel.zio=38,108,105,16
+ro.sf.lcd_density=480
+ro.sys.usb.storage.type=mtp,mass_storage
+ro.oem_unlock_supported=0
+ro.product.device=p3576
+ro.product.manufacturer=Vestel
+ro.product.locale=tr-TR
+ro.product.model=Venus_V3_5580
+ro.product.brand=Vestel
+ro.board.platform=mt6753
