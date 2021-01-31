@@ -62,7 +62,6 @@ TARGET_RECOVERY_FSTAB := $(LOCAL_PATH)/rootdir/etc/recovery.fstab
 TW_CUSTOM_CPU_TEMP_PATH := /sys/class/thermal/thermal_zone1/temp
 TW_SCREEN_BLANK_ON_BOOT := true
 TW_USE_MODEL_HARDWARE_ID_FOR_DEVICE_ID := true
-TW_DEVICE_VERSION := @ciwga
 TW_FLASH_FROM_STORAGE := true
 TW_NEW_ION_HEAP := true
 TW_INCLUDE_FB2PNG := true
